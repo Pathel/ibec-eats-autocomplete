@@ -14,7 +14,7 @@ $google_api_key = "AIzaSyBx_PLephaGxpOZjWedxxDX9Esr7g0oHdg";
 ?>
 <html>
     <head>
-        <title>iBec Eats</title>
+        <title>iBec Eats (Autocomplete Edition)</title>
         <meta name="description" content="SEO Meta description...">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
